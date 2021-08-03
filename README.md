@@ -3,7 +3,7 @@
 
 # Kubeform Vultr Provider Code Generator
 
-Generates code for Kubeform Vultr Provider
+Kubeform code generator for [Terraform Vultr Provider](https://github.com/vultr/terraform-provider-vultr)
 
 ## Installation
 
