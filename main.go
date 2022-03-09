@@ -43,6 +43,7 @@ func main() {
 		ProviderData:         vultr.Provider(),
 		ProviderImportPath:   "github.com/vultr/terraform-provider-vultr/vultr",
 		ProviderConfig:       "vultr/vultr",
+		TfPluginVersion:      "v2.8.0",
 		Version:              "v1alpha1",
 		APIsPath:             apisPath,
 		ControllerPath:       controllerPath,
